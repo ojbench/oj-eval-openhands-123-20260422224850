@@ -1,0 +1,7 @@
+# Ignore build artifacts
+raid5_test
+*.o
+*.out
+*.log
+.DS_Store
+.vscode/
